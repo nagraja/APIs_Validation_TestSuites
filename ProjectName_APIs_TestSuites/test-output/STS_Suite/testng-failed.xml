@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [STS_Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="EnvURL" value="http://edge.blissful-joliot-29.backbase.eu/"/>
+  <test thread-count="5" name="STS_Test(failed)">
+    <classes>
+      <class name="USOB_Flow_SmokeTest_Suite.IdentityVerified_13">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="IdentityVerified"/>
+          <include name="tearDown"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.IdentityVerified_13 -->
+      <class name="USOB_Flow_SmokeTest_Suite.select_products_2">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="SelectProduct"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.select_products_2 -->
+      <class name="USOB_Flow_SmokeTest_Suite.AccountTypeSelector_9">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="AccountTypeSelector"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.AccountTypeSelector_9 -->
+      <class name="USOB_Flow_SmokeTest_Suite.Submit_KYC_Data_12">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="Submit_KYC_Data"/>
+          <include name="tearDown"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.Submit_KYC_Data_12 -->
+      <class name="USOB_Flow_SmokeTest_Suite.VerifyOTP_6">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="TearDown"/>
+          <include name="VerifyOTP"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.VerifyOTP_6 -->
+      <class name="USOB_Flow_SmokeTest_Suite.Submit_Address_8">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="Submit_Address"/>
+          <include name="tearDown"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.Submit_Address_8 -->
+      <class name="USOB_Flow_SmokeTest_Suite.PoliciesAgreement_3">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="TearDown"/>
+          <include name="PoliciesAgreement"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.PoliciesAgreement_3 -->
+      <class name="USOB_Flow_SmokeTest_Suite.SubmitAnchorData_4">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+          <include name="SubmitAnchorData"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.SubmitAnchorData_4 -->
+      <class name="USOB_Flow_SmokeTest_Suite.fetch_co_applicant_data_MainApplicant_1">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="FetchApplicant"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.fetch_co_applicant_data_MainApplicant_1 -->
+      <class name="USOB_Flow_SmokeTest_Suite.Submit_IdentityVerification_7">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="Submit_IdentityVerification"/>
+          <include name="tearDown"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.Submit_IdentityVerification_7 -->
+      <class name="USOB_Flow_SmokeTest_Suite.RequestOTP_5">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="TearDown"/>
+          <include name="RequestOTP"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.RequestOTP_5 -->
+      <class name="USOB_Flow_SmokeTest_Suite.SetupCredentials_14">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+          <include name="SetupCredentials"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.SetupCredentials_14 -->
+      <class name="USOB_Flow_SmokeTest_Suite.Submit_SSN_11">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="Submit_SSN"/>
+          <include name="tearDown"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.Submit_SSN_11 -->
+      <class name="USOB_Flow_SmokeTest_Suite.CitizenshipSelector_10">
+        <methods>
+          <include name="setup_Fun"/>
+          <include name="TearDown"/>
+          <include name="tearDown"/>
+          <include name="CitizenshipSelector"/>
+        </methods>
+      </class> <!-- USOB_Flow_SmokeTest_Suite.CitizenshipSelector_10 -->
+    </classes>
+  </test> <!-- STS_Test(failed) -->
+</suite> <!-- Failed suite [STS_Suite] -->
