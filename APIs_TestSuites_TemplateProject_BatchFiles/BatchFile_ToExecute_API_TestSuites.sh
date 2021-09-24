@@ -1,5 +1,5 @@
 #!/bin/bash
-Script_Location=~/Desktop/APIs_Validation_Script_and_Files/ProjectName_APIs_TestSuites
+#Script_Location=~/Desktop/APIs_Validation_Script_and_Files/ProjectName_APIs_TestSuites
 #TestSuiteName=STS_File.xml
 
 Env_URL_Value=$1
@@ -13,14 +13,14 @@ then
     echo Hello Enter
     read -p 'Enter Environment URL Please: ' Env_URL
     read -p 'Enter Test Type (ST or FT) Please: ' TT_Value
-    Script_Location=~/.jenkins/workspace/API_TestSuites_Jenkins_And_Github_Integration_Job/ProjectName_APIs_TestSuites/
+    Script_Location=~/Desktop/APIs_Validation_Script_and_Files/ProjectName_APIs_TestSuites
 else
     echo Hello Do Not Enter
     Env_URL=${Env_URL_Value}
     echo Environment URL Value From Jenkins is: $Env_URL
     TT_Value=${TestType_Value}
     echo TestType Value From Jenkins is: $TT_Value
-    Script_Location=~/Desktop/APIs_Validation_Script_and_Files/ProjectName_APIs_TestSuites
+    Script_Location=~/.jenkins/workspace/API_TestSuites_Jenkins_And_Github_Integration_Job/ProjectName_APIs_TestSuites/
 fi
 
 case $TT_Value in
