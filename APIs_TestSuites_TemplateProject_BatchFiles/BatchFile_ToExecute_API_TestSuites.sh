@@ -4,7 +4,7 @@
 
 Env_URL_Value=$1
 TestType_Value=$2
-JJname_Value=$3.  
+JJname_Value=$3  
 #JJname means JenkinsJobname
 
 #edge.mystifying-varahamihira-76.backbase.eu
