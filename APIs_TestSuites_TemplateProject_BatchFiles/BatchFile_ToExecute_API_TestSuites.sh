@@ -1,9 +1,11 @@
 #!/bin/bash
 #Script_Location=~/Desktop/APIs_Validation_Script_and_Files/ProjectName_APIs_TestSuites
-#TestSuiteName=STS_File.xml
+
 
 Env_URL_Value=$1
 TestType_Value=$2
+JJname_Value=$3.  
+#JJname means JenkinsJobname
 
 #edge.mystifying-varahamihira-76.backbase.eu
 
@@ -20,7 +22,8 @@ else
     echo Environment URL Value From Jenkins is: $Env_URL
     TT_Value=${TestType_Value}
     echo TestType Value From Jenkins is: $TT_Value
-    Script_Location=~/.jenkins/workspace/API_TestSuites_Jenkins_And_Github_Integration_Job/ProjectName_APIs_TestSuites/
+    #Script_Location=~/.jenkins/workspace/API_TestSuites_Jenkins_And_Github_Integration_Job/ProjectName_APIs_TestSuites/
+    Script_Location=~/.jenkins/workspace/+${JJname_Value}+/ProjectName_APIs_TestSuites/
 fi
 
 case $TT_Value in
