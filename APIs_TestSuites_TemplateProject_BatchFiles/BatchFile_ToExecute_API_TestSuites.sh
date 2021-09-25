@@ -23,7 +23,7 @@ else
     TT_Value=${TestType_Value}
     echo TestType Value From Jenkins is: $TT_Value
     #Script_Location=~/.jenkins/workspace/API_TestSuites_Jenkins_And_Github_Integration_Job/ProjectName_APIs_TestSuites/
-    Script_Location=~/.jenkins/workspace/+${JJname_Value}+/ProjectName_APIs_TestSuites/
+    Script_Location=~/.jenkins/workspace/${JJname_Value}/ProjectName_APIs_TestSuites/
 fi
 
 case $TT_Value in
