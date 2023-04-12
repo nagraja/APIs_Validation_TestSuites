@@ -18,14 +18,10 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
-
-
-
 public class projectname_Login_Post_Req extends global_Functions
 {
 	//Global Functions Object Creation
 			static global_Functions gfOBJ = new global_Functions();
-			
 			public XSSFWorkbook w_bOBJ;
 			public XSSFSheet w_sOBJ;
 			public CellStyle StyleOBJ;
@@ -93,7 +89,7 @@ public class projectname_Login_Post_Req extends global_Functions
 				    {
 				    	String Column_Name = w_sOBJ.getRow(0).getCell(cni).getStringCellValue();
 			    		String Column_Value = w_sOBJ.getRow(rli).getCell(cni).getStringCellValue(); 
-			    		//System.out.println("Column Name Is: "+Column_Name+" And Corresponding Value Is: "+Column_Value);
+			    		System.out.println("Column Name Is: "+Column_Name+" And Corresponding Value Is: "+Column_Value);
 			    		cn_OBJ.put(Column_Name, Column_Value);
 			    		columnNameIndex_OBJ.put(Column_Name, cni);
 			       	}		    	
