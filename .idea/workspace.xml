@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc9bc82a-bb12-4a41-90e1-74c2f14a0fb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/FunctionalTestsExecution_Results_And_Reports/ListUsers_FT_Result_2023.04.11.13.20.27/TestRunReport_2023.04.11.13.20.27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/FunctionalTestsExecution_Results_And_Reports/ListUsers_FT_Result_2023.04.11.13.20.27/projectname_ListUsers_Get_Req_FT_Script_Output_DF.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/SmokeTestsExecution_Results_And_Reports/SmokeTestSuite_Result_2023.04.11.13.09.17/TestRunReport_2023.04.11.13.09.17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/SmokeTestsExecution_Results_And_Reports/SmokeTestSuite_Result_2023.04.11.13.09.17/projectname_ListUsers_Get_Reg_Output_DF.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/SmokeTestsExecution_Results_And_Reports/SmokeTestSuite_Result_2023.04.11.13.09.17/projectname_Login_Post_Req_Output_DF.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIs_TestSuites_TemplateProject_BatchFiles/BatchFile_ToExecute_API_TestSuites.sh" beforeDir="false" afterPath="$PROJECT_DIR$/APIs_TestSuites_TemplateProject_BatchFiles/BatchFile_ToExecute_API_TestSuites.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.settings/org.testng.eclipse.maven.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/.settings/org.testng.eclipse.maven.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/Login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/Login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/STS_File.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/STS_File.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/main/resources/log4j2.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/main/resources/log4j2.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/configPackage/FT_Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/configPackage/FT_Config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/configPackage/ST_Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/configPackage/ST_Config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/projectname_APIs_SmokeTestSuite_Scripts/projectname_Login_Post_Req.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/projectname_APIs_SmokeTestSuite_Scripts/projectname_Login_Post_Req.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/utilities/excelUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/utilities/excelUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/utilities/global_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/src/test/java/utilities/global_Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/bullet_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/bullet_point.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/collapseall.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/collapseall.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/navigator-bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/navigator-bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/passed.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/passed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/skipped.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/skipped.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports1.css" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports2.js" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-reports2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectName_APIs_TestSuites/test-output/testng.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OKHKjaTbRyoHkiIkzIDmSOvWTS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/nagmothukuri/Desktop/APIs_Scripts_Master_Suite"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc9bc82a-bb12-4a41-90e1-74c2f14a0fb9" name="Changes" comment="" />
+      <created>1681302293090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681302293090</updated>
+    </task>
+    <servers />
+  </component>
+</project>

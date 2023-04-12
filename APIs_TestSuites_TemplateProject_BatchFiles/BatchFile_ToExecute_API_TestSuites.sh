@@ -41,4 +41,6 @@ echo Test Type Value is: $TT_Value
 echo Script Location is: $Script_Location
 
 cd ${Script_Location} 
+#mvn test -DTestSuiteName="SmokeTestSuite" -DEnvURL="https://reqres.in" -DTestType="ST"
+
 mvn test -DTestSuiteName=${TestSuiteName} -DEnvURL=${Env_URL} -DTestType=${TT_Value}

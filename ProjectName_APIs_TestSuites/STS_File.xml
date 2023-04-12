@@ -12,3 +12,6 @@
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+
+<!--TO Execute the Script execute the the command given below -->
+<!-- mvn test -DTestSuiteName="STS_File.xml" -DEnvURL="https://reqres.in" -DTestType="ST"-->
